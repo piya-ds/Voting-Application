@@ -24,3 +24,17 @@ npm start
 
 ```
 
+
+Following are the application screenshots,
+
+![image](https://github.com/piya-ds/Voting-Application/assets/86950823/c07d4d2d-6c02-4d50-a6ac-cca004db0221)
+
+![image](https://github.com/piya-ds/Voting-Application/assets/86950823/1866a23a-cd7e-410c-98fe-19beb4857f5b)
+
+![image](https://github.com/piya-ds/Voting-Application/assets/86950823/48717d5b-fb70-47a2-9b6e-5c77f19da3f5)
+
+![image](https://github.com/piya-ds/Voting-Application/assets/86950823/01a0e7cf-00ce-4c80-829c-ec08805eeb2e)
+
+
+
+
