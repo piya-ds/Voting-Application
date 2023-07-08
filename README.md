@@ -31,7 +31,7 @@ Following are the application screenshots,
 
 ![image](https://github.com/piya-ds/Voting-Application/assets/86950823/1866a23a-cd7e-410c-98fe-19beb4857f5b)
 
-![image](https://github.com/piya-ds/Voting-Application/assets/86950823/48717d5b-fb70-47a2-9b6e-5c77f19da3f5)
+![Screenshot 2023-07-08 184252](https://github.com/piya-ds/Voting-Application/assets/86950823/4ffbd20d-1e6a-48aa-a63b-2f6ec650aea8)
 
 ![image](https://github.com/piya-ds/Voting-Application/assets/86950823/01a0e7cf-00ce-4c80-829c-ec08805eeb2e)
 
